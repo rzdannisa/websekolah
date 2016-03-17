@@ -98,7 +98,7 @@
 
             <div class="carousel-inner">
                 <div class="item active">
-                    <a class="cntr" href="#"><img class="img-slide" src="images/TK.gif" alt=""></a>
+                    <a class="cntr" href="#"><img class="img-slide" src="images/TK.png" alt=""></a>
                 </div>
 
                 <div class="item">
@@ -522,7 +522,7 @@
 <div id="portfolioSection">
 <div class="content-port">
 <div class="class-img">
-    <img class="img-c" src="{{ url('images/TK.gif') }}">
+    <img class="img-c" src="{{ url('images/TK.png') }}">
 </div>
 <div class="class-lab">
     <a class="a-lab-port" href="#"><label class="lab-c-port">Beranda</label></a>
