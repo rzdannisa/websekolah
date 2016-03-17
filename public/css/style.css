@@ -1,4 +1,3 @@
-
 *{outline:0 !important;}
 body{ background:#222; padding:0; color: #454545; font-family: 'Raleway', sans-serif;}
 a,a:hover{text-decoration:none; color:#FE5214}
@@ -151,7 +150,7 @@ h1.brand {
 }
 #portfolioSection .span6, #contactSection .span6{ float:none; margin:0 auto; text-align:center;}
 
-
+#loginSection{background-color: white;}
 
 
 #blogSection{background: #fff;}
@@ -616,6 +615,7 @@ border-bottom: 0;
 }
 .login-page{
 	width: 100%;
+	background-color: white;
 }
 .login-form{
 	text-align: center;
@@ -628,7 +628,7 @@ border-bottom: 0;
 }
 .login-box{
 	border-radius: 10px;
-	margin: 1.5% auto;
+	margin: 1.3% auto;
 	padding: 0%;
 	width: 40%;
 	height: 40%;
@@ -700,6 +700,15 @@ border-bottom: 0;
 .back-button:hover{
 	transition:all ease-in .5s;
 	color: black !important;
+}
+.modal-body-front {
+    position: relative;
+    padding: 15px;
+    height: 470px;
+}
+.modal-dialog-front {
+    width: 98%;
+    margin: 10% auto;
 }
 
 @media only screen and (max-width : 992px) {

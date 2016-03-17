@@ -148,7 +148,325 @@
 </div>
 </div>
 </div> -->
+<div class="modal fade" id="myModalport1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
+    <div class="modal-dialog-front"> 
+        <div class="modal-content"> 
+            <div class="modal-header"> 
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
+            <h4 class="modal-title" id="myModalLabel">Beranda TK</h4> 
+            </div> 
+                <div class="modal-body-front"> 
+                   LOREM
+                </form>
+            </div>
+        </div>
+    </div> 
+</div> 
+</div>
 
+<div class="modal fade" id="myModalport2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
+    <div class="modal-dialog-front"> 
+        <div class="modal-content"> 
+            <div class="modal-header"> 
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
+            <h4 class="modal-title" id="myModalLabel">Visi - Misi TK</h4> 
+            </div> 
+                <div class="modal-body-front"> 
+                   LOREM
+                </form>
+            </div>
+        </div>
+    </div> 
+</div> 
+</div>
+
+<div class="modal fade" id="myModalport3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
+    <div class="modal-dialog-front"> 
+        <div class="modal-content"> 
+            <div class="modal-header"> 
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
+            <h4 class="modal-title" id="myModalLabel">Kurikulum TK</h4> 
+            </div> 
+                <div class="modal-body-front"> 
+                   LOREM
+                </form>
+            </div>
+        </div>
+    </div> 
+</div> 
+</div>
+
+<div class="modal fade" id="myModalport4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
+    <div class="modal-dialog-front"> 
+        <div class="modal-content"> 
+            <div class="modal-header"> 
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
+            <h4 class="modal-title" id="myModalLabel">Fasilitas TK</h4> 
+            </div> 
+                <div class="modal-body-front"> 
+                   LOREM
+                </form>
+            </div>
+        </div>
+    </div> 
+</div> 
+</div>
+
+<div class="modal fade" id="myModalport5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
+    <div class="modal-dialog-front"> 
+        <div class="modal-content"> 
+            <div class="modal-header"> 
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
+            <h4 class="modal-title" id="myModalLabel">Galeri Kegiatan TK</h4> 
+            </div> 
+                <div class="modal-body-front"> 
+                   LOREM
+                </form>
+            </div>
+        </div>
+    </div> 
+</div> 
+</div>
+
+<div class="modal fade" id="myModalmeet1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
+    <div class="modal-dialog-front"> 
+        <div class="modal-content"> 
+            <div class="modal-header"> 
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
+            <h4 class="modal-title" id="myModalLabel">Beranda TK</h4> 
+            </div> 
+                <div class="modal-body-front"> 
+                   LOREM
+                </form>
+            </div>
+        </div>
+    </div> 
+</div> 
+</div>
+
+<div class="modal fade" id="myModalmeet2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
+    <div class="modal-dialog-front"> 
+        <div class="modal-content"> 
+            <div class="modal-header"> 
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
+            <h4 class="modal-title" id="myModalLabel">Visi - Misi TK</h4> 
+            </div> 
+                <div class="modal-body-front"> 
+                   LOREM
+                </form>
+            </div>
+        </div>
+    </div> 
+</div> 
+</div>
+
+<div class="modal fade" id="myModalmeet3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
+    <div class="modal-dialog-front"> 
+        <div class="modal-content"> 
+            <div class="modal-header"> 
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
+            <h4 class="modal-title" id="myModalLabel">Kurikulum TK</h4> 
+            </div> 
+                <div class="modal-body-front"> 
+                   LOREM
+                </form>
+            </div>
+        </div>
+    </div> 
+</div> 
+</div>
+
+<div class="modal fade" id="myModalmeet4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
+    <div class="modal-dialog-front"> 
+        <div class="modal-content"> 
+            <div class="modal-header"> 
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
+            <h4 class="modal-title" id="myModalLabel">Fasilitas TK</h4> 
+            </div> 
+                <div class="modal-body-front"> 
+                   LOREM
+                </form>
+            </div>
+        </div>
+    </div> 
+</div> 
+</div>
+
+<div class="modal fade" id="myModalmeet5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
+    <div class="modal-dialog-front"> 
+        <div class="modal-content"> 
+            <div class="modal-header"> 
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
+            <h4 class="modal-title" id="myModalLabel">Galeri Kegiatan TK</h4> 
+            </div> 
+                <div class="modal-body-front"> 
+                   LOREM
+                </form>
+            </div>
+        </div>
+    </div> 
+</div> 
+</div>
+
+<div class="modal fade" id="myModalrec1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
+    <div class="modal-dialog-front"> 
+        <div class="modal-content"> 
+            <div class="modal-header"> 
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
+            <h4 class="modal-title" id="myModalLabel">Beranda TK</h4> 
+            </div> 
+                <div class="modal-body-front"> 
+                   LOREM
+                </form>
+            </div>
+        </div>
+    </div> 
+</div> 
+</div>
+
+<div class="modal fade" id="myModalrec2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
+    <div class="modal-dialog-front"> 
+        <div class="modal-content"> 
+            <div class="modal-header"> 
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
+            <h4 class="modal-title" id="myModalLabel">Visi - Misi TK</h4> 
+            </div> 
+                <div class="modal-body-front"> 
+                   LOREM
+                </form>
+            </div>
+        </div>
+    </div> 
+</div> 
+</div>
+
+<div class="modal fade" id="myModalrec3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
+    <div class="modal-dialog-front"> 
+        <div class="modal-content"> 
+            <div class="modal-header"> 
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
+            <h4 class="modal-title" id="myModalLabel">Kurikulum TK</h4> 
+            </div> 
+                <div class="modal-body-front"> 
+                   LOREM
+                </form>
+            </div>
+        </div>
+    </div> 
+</div> 
+</div>
+
+<div class="modal fade" id="myModalrec4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
+    <div class="modal-dialog-front"> 
+        <div class="modal-content"> 
+            <div class="modal-header"> 
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
+            <h4 class="modal-title" id="myModalLabel">Fasilitas TK</h4> 
+            </div> 
+                <div class="modal-body-front"> 
+                   LOREM
+                </form>
+            </div>
+        </div>
+    </div> 
+</div> 
+</div>
+
+<div class="modal fade" id="myModalrec5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
+    <div class="modal-dialog-front"> 
+        <div class="modal-content"> 
+            <div class="modal-header"> 
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
+            <h4 class="modal-title" id="myModalLabel">Galeri Kegiatan TK</h4> 
+            </div> 
+                <div class="modal-body-front"> 
+                   LOREM
+                </form>
+            </div>
+        </div>
+    </div> 
+</div> 
+</div>
+
+<div class="modal fade" id="myModalcont1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
+    <div class="modal-dialog-front"> 
+        <div class="modal-content"> 
+            <div class="modal-header"> 
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
+            <h4 class="modal-title" id="myModalLabel">Beranda TK</h4> 
+            </div> 
+                <div class="modal-body-front"> 
+                   LOREM
+                </form>
+            </div>
+        </div>
+    </div> 
+</div> 
+</div>
+
+<div class="modal fade" id="myModalcont2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
+    <div class="modal-dialog-front"> 
+        <div class="modal-content"> 
+            <div class="modal-header"> 
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
+            <h4 class="modal-title" id="myModalLabel">Visi - Misi TK</h4> 
+            </div> 
+                <div class="modal-body-front"> 
+                   LOREM
+                </form>
+            </div>
+        </div>
+    </div> 
+</div> 
+</div>
+
+<div class="modal fade" id="myModalcont3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
+    <div class="modal-dialog-front"> 
+        <div class="modal-content"> 
+            <div class="modal-header"> 
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
+            <h4 class="modal-title" id="myModalLabel">Kurikulum TK</h4> 
+            </div> 
+                <div class="modal-body-front"> 
+                   LOREM
+                </form>
+            </div>
+        </div>
+    </div> 
+</div> 
+</div>
+
+<div class="modal fade" id="myModalcont4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
+    <div class="modal-dialog-front"> 
+        <div class="modal-content"> 
+            <div class="modal-header"> 
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
+            <h4 class="modal-title" id="myModalLabel">Fasilitas TK</h4> 
+            </div> 
+                <div class="modal-body-front"> 
+                   LOREM
+                </form>
+            </div>
+        </div>
+    </div> 
+</div> 
+</div>
+
+<div class="modal fade" id="myModalcont5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
+    <div class="modal-dialog-front"> 
+        <div class="modal-content"> 
+            <div class="modal-header"> 
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
+            <h4 class="modal-title" id="myModalLabel">Galeri Kegiatan TK</h4> 
+            </div> 
+                <div class="modal-body-front"> 
+                   LOREM
+                </form>
+            </div>
+        </div>
+    </div> 
+</div> 
+</div>
 
 <!-- Our Portfolio======================================== -->
 <div id="portfolioSection">
@@ -157,11 +475,11 @@
     <img class="img-c" src="{{ url('images/TK.gif') }}">
 </div>
 <div class="class-lab">
-    <a class="a-lab-port" href="#"><label class="lab-c-port">Beranda</label></a>
-    <a class="a-lab-port" href="#"><label class="lab-c-port">Visi - Misi</label></a>
-    <a class="a-lab-port" href="#"><label class="lab-c-port">Kurikulum</label></a>
-    <a class="a-lab-port" href="#"><label class="lab-c-port">Fasilitas</label></a>
-    <a class="a-lab-port" href="#"><label class="lab-c-port">Galeri Kegiatan</label></a>
+    <a class="a-lab-port" data-toggle="modal" data-target="#myModalport1" href="#"><label class="lab-c-port">Beranda</label></a>
+    <a class="a-lab-port" data-toggle="modal" data-target="#myModalport2" href="#"><label class="lab-c-port">Visi - Misi</label></a>
+    <a class="a-lab-port" data-toggle="modal" data-target="#myModalport3" href="#"><label class="lab-c-port">Kurikulum</label></a>
+    <a class="a-lab-port" data-toggle="modal" data-target="#myModalport4" href="#"><label class="lab-c-port">Fasilitas</label></a>
+    <a class="a-lab-port" data-toggle="modal" data-target="#myModalport5" href="#"><label class="lab-c-port">Galeri Kegiatan</label></a>
     <a class="a-lab-port" href="#"><label class="lab-c-port">Pendaftaran</label></a>
 </div>
 </div>
@@ -174,11 +492,11 @@
     <img class="img-c" src="{{ url('images/SD.png') }}">
 </div>
 <div class="class-lab">
-    <a class="a-lab-meet" href="#"><label class="lab-c-meet">Beranda</label></a>
-    <a class="a-lab-meet" href="#"><label class="lab-c-meet">Visi - Misi</label></a>
-    <a class="a-lab-meet" href="#"><label class="lab-c-meet">Kurikulum</label></a>
-    <a class="a-lab-meet" href="#"><label class="lab-c-meet">Fasilitas</label></a>
-    <a class="a-lab-meet" href="#"><label class="lab-c-meet">Galeri Kegiatan</label></a>
+    <a class="a-lab-meet" data-toggle="modal" data-target="#myModalmeet1" href="#"><label class="lab-c-meet">Beranda</label></a>
+    <a class="a-lab-meet" data-toggle="modal" data-target="#myModalmeet2" href="#"><label class="lab-c-meet">Visi - Misi</label></a>
+    <a class="a-lab-meet" data-toggle="modal" data-target="#myModalmeet3" href="#"><label class="lab-c-meet">Kurikulum</label></a>
+    <a class="a-lab-meet" data-toggle="modal" data-target="#myModalmeet4" href="#"><label class="lab-c-meet">Fasilitas</label></a>
+    <a class="a-lab-meet" data-toggle="modal" data-target="#myModalmeet5" href="#"><label class="lab-c-meet">Galeri Kegiatan</label></a>
     <a class="a-lab-meet" href="#"><label class="lab-c-meet">Pendaftaran</label></a>
 </div>
 </div>
@@ -192,11 +510,11 @@
     <img class="img-c" src="{{ url('images/SMP.png') }}">
 </div>
 <div class="class-lab">
-    <a class="a-lab-rec" href="#"><label class="lab-c-rec">Beranda</label></a>
-    <a class="a-lab-rec" href="#"><label class="lab-c-rec">Visi - Misi</label></a>
-    <a class="a-lab-rec" href="#"><label class="lab-c-rec">Kurikulum</label></a>
-    <a class="a-lab-rec" href="#"><label class="lab-c-rec">Fasilitas</label></a>
-    <a class="a-lab-rec" href="#"><label class="lab-c-rec">Galeri Kegiatan</label></a>
+    <a class="a-lab-rec" data-toggle="modal" data-target="#myModalrec1" href="#"><label class="lab-c-rec">Beranda</label></a>
+    <a class="a-lab-rec" data-toggle="modal" data-target="#myModalrec2" href="#"><label class="lab-c-rec">Visi - Misi</label></a>
+    <a class="a-lab-rec" data-toggle="modal" data-target="#myModalrec3" href="#"><label class="lab-c-rec">Kurikulum</label></a>
+    <a class="a-lab-rec" data-toggle="modal" data-target="#myModalrec4" href="#"><label class="lab-c-rec">Fasilitas</label></a>
+    <a class="a-lab-rec" data-toggle="modal" data-target="#myModalrec5" href="#"><label class="lab-c-rec">Galeri Kegiatan</label></a>
     <a class="a-lab-rec" href="#"><label class="lab-c-rec">Pendaftaran</label></a>
 </div>
 </div>
@@ -209,11 +527,11 @@
     <img class="img-c" src="{{ url('images/SMA.png') }}">
 </div>
 <div class="class-lab">
-    <a class="a-lab-cont" href="#"><label class="lab-c-cont">Beranda</label></a>
-    <a class="a-lab-cont" href="#"><label class="lab-c-cont">Visi - Misi</label></a>
-    <a class="a-lab-cont" href="#"><label class="lab-c-cont">Kurikulum</label></a>
-    <a class="a-lab-cont" href="#"><label class="lab-c-cont">Fasilitas</label></a>
-    <a class="a-lab-cont" href="#"><label class="lab-c-cont">Galeri Kegiatan</label></a>
+    <a class="a-lab-cont" data-toggle="modal" data-target="#myModalcont1" href="#"><label class="lab-c-cont">Beranda</label></a>
+    <a class="a-lab-cont" data-toggle="modal" data-target="#myModalcont2" href="#"><label class="lab-c-cont">Visi - Misi</label></a>
+    <a class="a-lab-cont" data-toggle="modal" data-target="#myModalcont3" href="#"><label class="lab-c-cont">Kurikulum</label></a>
+    <a class="a-lab-cont" data-toggle="modal" data-target="#myModalcont4" href="#"><label class="lab-c-cont">Fasilitas</label></a>
+    <a class="a-lab-cont" data-toggle="modal" data-target="#myModalcont5" href="#"><label class="lab-c-cont">Galeri Kegiatan</label></a>
     <a class="a-lab-cont" href="#"><label class="lab-c-cont">Pendaftaran</label></a>
 </div>
 </div>
@@ -244,7 +562,7 @@
             <label><a class="footer-a1" href="#">Contact</a></label>
         </div>
         <div class="footer-lable2">
-            <label>Designed and built with all the love in the world by <a class="footer-a" href="#">@mdo</a> and <a <a class="footer-a" href="">@fat</a>. Maintained by the <a class="footer-a" href="">core team</a>with the help of <a class="footer-a" href="">our contributors</a>.</label>
+            <label>Designed and built with all the love in the world by <a class="footer-a" href="#">@mdo</a> and <a <a class="footer-a" href="">@fat</a>. Maintained by the <a class="footer-a" href="">core team</a> with the help of <a class="footer-a" href="">our contributors</a>.</label>
             <br>
             <label>Code licensed <a class="footer-a" href="">MIT</a>, docs <a class="footer-a" href=""> CC BY 3.0. </a></label>
         </div>
