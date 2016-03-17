@@ -1,9 +1,9 @@
 
 *{outline:0 !important;}
-body{ background:#222; padding:0; color: #454545; font-family: 'Open Sans', sans-serif;}
+body{ background:#222; padding:0; color: #454545; font-family: 'Raleway', sans-serif;}
 a,a:hover{text-decoration:none; color:#FE5214}
 h2,h3{color:#FE5214; text-rendering: optimizelegibility; }
-h1{padding:0px; font-weight: 200;font-size: 32px;color: #3f3f3f;margin: 0;font-family: 'Open Sans', sans-serif;text-rendering: optimizelegibility;}
+h1{padding:0px; font-weight: 200;font-size: 32px;color: #3f3f3f;margin: 0;font-family: 'Raleway', sans-serif;text-rendering: optimizelegibility;}
 .debug{ border:1px solid #FFCC33;}
 h1.brand {
     background: none repeat scroll 0 0 #299A0B ;
@@ -31,7 +31,7 @@ h1.brand {
     width: 25%;
     float: left;
     font-size: 30px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
     color: #4caf50;
     margin-top: -30px;
     font-weight: bold;
@@ -54,7 +54,7 @@ h1.brand {
 .nav li{display:inline-block; float:none;}
 .nav a {padding: 3px 18px;color:inherit;border-radius:10px;}
 .mynav li{
-	font-size: 17px;font-family: 'Open Sans', sans-serif;display: inline-block; color:#3A494C !important;
+	font-size: 17px;font-family: 'Raleway', sans-serif;display: inline-block; color:#3A494C !important;
 }
 .img-slide{
 	width: 45%;
