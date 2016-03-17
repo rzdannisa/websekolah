@@ -708,6 +708,10 @@ border-bottom: 0;
     overflow-y: auto;
     text-align: justify;
 }
+.modal-title{
+  font-weight: bold;
+  font-size: 120%;
+}
 .modal-dialog-front {
     width: 98%;
     margin: 10% auto;
