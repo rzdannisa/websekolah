@@ -15,13 +15,70 @@
 <div id="carouselSection" class="cntr"> 
 </div>
 <div id="headerSection">
-    <div class="container">
+        
+    <nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      
+      <a class="navbar-brand" href="#">
+      <img class="navbar-brand" style="height:80px;width:80px;margin-top:-31px" src="{{ url('http://alfajarbekasi.or.id/ppdb/images/logo.png') }}">
+      Al - Fajar</a>
+      
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li><a href="#carouselSection">Home</a></li>
+        <li><a href="#carouselSection">News</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Yayasan <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Visi Misi</a></li>
+            <li><a href="#">Sistem Pendidikan</a></li>
+            <li><a href="#">Profil</a></li>
+            <li><a href="#">Galeri</a></li>
+          </ul>
+        </li>
+        <li><a href="#portfolioSection">TK</a></li>
+        <li><a href="#meetourteamSection">SD</a></li>
+        <li><a href="#recentpostSection">SMP</a></li>
+        <li><a href="#contactSection">SMA</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">DKM <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Fasilitas</a></li>
+            <li><a href="#">Galeri Kegiatas</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Informasi <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Pengumuman</a></li>
+            <li><a href="#">Agenda</a></li>
+            <li><a href="#">Berita</a></li>
+            <li><a href="#">Artikel</a></li>
+          </ul>
+        </li>
+        <li><a href="{{ url('login') }}">Sign In</a></li>
+
+      </ul>
+    </div>
+  </div>
+</nav>
+    </div>
+
+<!-- <div class="container">
     <div class="span3 logo"><img style="height:80px;width:80px;" src="{{ url('http://alfajarbekasi.or.id/ppdb/images/logo.png') }}"> Al - Fajar</div>
         
         <div class="navbar">
         
             
-            <!-- <div class="nav-collapse"> -->
+            <div class="nav-collapse">
                 <div>
             
                 <ul class="nav mynav">
@@ -36,7 +93,7 @@
                             <li><a href="#">Galeri</a></li>
                         </ul>
                     </li>
-                    <!-- <li><a href="#ourServices">What we do?</a></li> -->
+                    <li><a href="#ourServices">What we do?</a></li>
                     <li><a href="#portfolioSection">TK</a></li>
                     <li><a href="#meetourteamSection">SD</a></li>
                     <li><a href="#recentpostSection">SMP</a></li>
@@ -45,8 +102,7 @@
                     <li><a href="#">Informasi</a></li>
                     <li><a href="{{ url('login') }}">Sign In</a></li>
                 </ul>
-                <!-- <li><a href="{{ url('login') }}">Sign In</a></li>
- -->            </div>
+                </div>
             
             <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
                 <span class="line"></span>
@@ -54,8 +110,8 @@
                 <span class="line"></span>
             </button>
         </div>
-    </div>
-    </div>
+    </div>  -->   
+
 <!--Header Ends================================================ -->
 
 <!-- <div id="carouselSection" class="cntr">  -->
