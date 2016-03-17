@@ -13,14 +13,14 @@
 <body>
 
 <!-- <button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal1"> Buka Modal </button> -->
-        <div class="modal fade" id="myModal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
-            <div class="modal-dialog"> 
-                <div class="modal-content"> 
-                    <div class="modal-header"> 
-                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
-                        <h4 class="modal-title" id="myModalLabel">Login Teacher</h4> 
-                    </div> 
-                  			<div class="modal-body"> 
+        <div class="modal fade" id="myModal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <h4 class="modal-title" id="myModalLabel">Login Teacher</h4>
+                    </div>
+                  			<div class="modal-body">
                   				<div class="login-form">
 				<form action="#" method="POST">
 					<input class="login-input" name="" placeholder="NIP Al-Fajar"></input>
@@ -29,22 +29,22 @@
 					<button class="login-button" type="submit">Login</button>
 				</form>
 			</div>
-        </div> 
-            <div class="modal-footer"> 
-                <button style="border:none" type="button" class="btn btn-default" data-dismiss="modal">Create account Sign Up</button> 
-            </div> 
-            </div> 
-            </div> 
+        </div>
+            <div class="modal-footer">
+                <button style="border:none" type="button" class="btn btn-danger" data-dismiss="modal">Close</button> 
+            </div>
+            </div>
+            </div>
         </div>
 
-        <div class="modal fade" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
-            <div class="modal-dialog"> 
-                <div class="modal-content"> 
-                    <div class="modal-header"> 
-                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
-                        <h4 class="modal-title" id="myModalLabel">Login Staff</h4> 
-                    </div> 
-                  			<div class="modal-body"> 
+        <div class="modal fade" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <h4 class="modal-title" id="myModalLabel">Login Staff</h4>
+                    </div>
+                  			<div class="modal-body">
                   				<div class="login-form">
 				<form action="#" method="POST">
 					<input class="login-input" name="" placeholder="Access"></input>
@@ -53,22 +53,22 @@
 					<button class="login-button" type="submit">Login</button>
 				</form>
 			</div>
-        </div> 
-            <div class="modal-footer"> 
-                <button style="border:none" type="button" class="btn btn-default" data-dismiss="modal">Create account Sign Up</button> 
-            </div> 
-            </div> 
-            </div> 
+        </div>
+            <div class="modal-footer">
+                <button style="border:none" type="button" class="btn btn-danger" data-dismiss="modal">Close</button> 
+            </div>
+            </div>
+            </div>
         </div>
 
-        <div class="modal fade" id="myModal3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
-            <div class="modal-dialog"> 
-                <div class="modal-content"> 
-                    <div class="modal-header"> 
-                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
-                        <h4 class="modal-title" id="myModalLabel">Login Parents</h4> 
-                    </div> 
-                  			<div class="modal-body"> 
+        <div class="modal fade" id="myModal3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <h4 class="modal-title" id="myModalLabel">Login Parents</h4>
+                    </div>
+                  			<div class="modal-body">
                   				<div class="login-form">
 				<form action="#" method="POST">
 					<input class="login-input" name="" placeholder="NIK"></input>
@@ -78,22 +78,22 @@
 					<button class="login-button" type="submit">Login</button>
 				</form>
 			</div>
-        </div> 
-            <div class="modal-footer"> 
-                <button style="border:none" type="button" class="btn btn-default" data-dismiss="modal">Create account Sign Up</button> 
-            </div> 
-            </div> 
-            </div> 
+        </div>
+            <div class="modal-footer">
+                <button style="border:none" type="button" class="btn btn-danger" data-dismiss="modal">Close</button> 
+            </div>
+            </div>
+            </div>
         </div>
 
-        <div class="modal fade" id="myModal4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
-            <div class="modal-dialog"> 
-                <div class="modal-content"> 
-                    <div class="modal-header"> 
-                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
-                        <h4 class="modal-title" id="myModalLabel">Login Students</h4> 
-                    </div> 
-                  			<div class="modal-body"> 
+        <div class="modal fade" id="myModal4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <h4 class="modal-title" id="myModalLabel">Login Students</h4>
+                    </div>
+                  			<div class="modal-body">
                   				<div class="login-form">
 				<form action="#" method="POST">
 					<input class="login-input" name="" placeholder="NIK"></input>
@@ -103,15 +103,15 @@
 					<button class="login-button" type="submit">Login</button>
 				</form>
 			</div>
-        </div> 
-            <div class="modal-footer"> 
-                <button style="border:none" type="button" class="btn btn-default" data-dismiss="modal">Create account Sign Up</button> 
-            </div> 
-            </div> 
-            </div> 
+        </div>
+            <div class="modal-footer">
+                <button style="border:none" type="button" class="btn btn-danger" data-dismiss="modal">Close</button> 
+            </div>
+            </div>
+            </div>
         </div>
 
-<!-- box -->        
+<!-- box -->
 
 <div class="login-page">
 	<div class="login-content">
@@ -144,7 +144,7 @@
 		</div>
 
 <!-- box end -->
-	
+
 	</div>
 	<a class="back-button" href="{{ url('/') }}"><i class="fa fa-home"></i></a>
 </div>
@@ -162,13 +162,13 @@
     $('#myCarousel').carousel({
       interval: 7000
     });
-    
+
     });
-    
-    
-    
-    
- 
+
+
+
+
+
 </script>
 
 </body>
