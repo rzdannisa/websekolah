@@ -13,10 +13,10 @@
 
 </head>
 <body>
-<div id="carouselSection" class="cntr"> 
+<div id="carouselSection" class="cntr">
 </div>
 <div id="headerSection">
-        
+
     <nav class="navbar navbar-inverse">
   <div class="container-fluid">
 
@@ -24,13 +24,13 @@
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
-        <span class="icon-bar"></span>                        
+        <span class="icon-bar"></span>
       </button>
-      
+
       <a class="navbar-brand" href="#">
       <img class="navbar-brand" style="height:80px;width:80px;margin-top:-31px" src="{{ url('http://alfajarbekasi.or.id/ppdb/images/logo.png') }}">
       Al - Fajar</a>
-      
+
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
@@ -53,13 +53,13 @@
 
 <!-- <div class="container">
     <div class="span3 logo"><img style="height:80px;width:80px;" src="{{ url('http://alfajarbekasi.or.id/ppdb/images/logo.png') }}"> Al - Fajar</div>
-        
+
         <div class="navbar">
-        
-            
+
+
             <div class="nav-collapse">
                 <div>
-            
+
                 <ul class="nav mynav">
                     <li><a href="#carouselSection">Home</a></li>
                     <li><a href="#carouselSection">News</a></li>
@@ -82,25 +82,25 @@
                     <li><a href="{{ url('login') }}">Sign In</a></li>
                 </ul>
                 </div>
-            
+
             <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
                 <span class="line"></span>
                 <span class="line"></span>
                 <span class="line"></span>
             </button>
         </div>
-    </div>  -->   
+    </div>  -->
 
 <!--Header Ends================================================ -->
 
 <!-- <div id="carouselSection" class="cntr">  -->
         <div id="myCarousel" class="carousel slide">
-        
+
             <div class="carousel-inner">
                 <div class="item active">
                     <a class="cntr" href="#"><img class="img-slide" src="images/TK.gif" alt=""></a>
                 </div>
-                
+
                 <div class="item">
                     <a class="cntr" href="#"><img class="img-slide" src="images/SD.png" alt=""></a>
                 </div>
@@ -108,12 +108,12 @@
                 <div class="item">
                     <a class="cntr" href="#"><img class="img-slide" src="images/SMP.png" alt=""></a>
                 </div>
-                
+
                 <div class="item">
                     <a class="cntr" href="#"><img class="img-slide" src="images/SMA.png" alt=""></a>
                 </div>
-                
-                
+
+
             </div>
             <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
             <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
@@ -123,12 +123,12 @@
 <!-- Sectionone block ends======================================== -->
 
 <!-- Our Services======================================== -->
-<!-- <div id="ourServices">     
-<div class="container"> 
+<!-- <div id="ourServices">
+<div class="container">
                 <div class="row">
-                
+
       <div class="col-md-4 col-xs-12">
-      
+
       <div class="info-img">
         <img src="img/img-1.png" ></div>
         <h4>Flat Design</h4>
@@ -148,324 +148,326 @@
 </div>
 </div>
 </div> -->
-<div class="modal fade" id="myModalport1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
-    <div class="modal-dialog-front"> 
-        <div class="modal-content"> 
-            <div class="modal-header"> 
-            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
-            <h4 class="modal-title" id="myModalLabel">Beranda TK</h4> 
-            </div> 
-                <div class="modal-body-front"> 
-                   LOREM
+
+<div class="modal fade" id="myModalport1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog-front">
+        <div class="modal-content">
+            <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 class="modal-title" id="myModalLabel">TK : Visi - Misi</h4>
+            </div>
+                <div class="modal-body-front">
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                 </form>
             </div>
         </div>
-    </div> 
-</div> 
+    </div>
+</div>
 </div>
 
-<div class="modal fade" id="myModalport2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
-    <div class="modal-dialog-front"> 
-        <div class="modal-content"> 
-            <div class="modal-header"> 
-            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
-            <h4 class="modal-title" id="myModalLabel">Visi - Misi TK</h4> 
-            </div> 
-                <div class="modal-body-front"> 
-                   LOREM
+<div class="modal fade" id="myModalport2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog-front">
+        <div class="modal-content">
+            <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 class="modal-title" id="myModalLabel">TK : Kurikulum</h4>
+            </div>
+                <div class="modal-body-front">
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                 </form>
             </div>
         </div>
-    </div> 
-</div> 
+    </div>
+</div>
 </div>
 
-<div class="modal fade" id="myModalport3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
-    <div class="modal-dialog-front"> 
-        <div class="modal-content"> 
-            <div class="modal-header"> 
-            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
-            <h4 class="modal-title" id="myModalLabel">Kurikulum TK</h4> 
-            </div> 
-                <div class="modal-body-front"> 
-                   LOREM
+<div class="modal fade" id="myModalport3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog-front">
+        <div class="modal-content">
+            <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 class="modal-title" id="myModalLabel">TK : Fasilitas</h4>
+            </div>
+                <div class="modal-body-front">
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                 </form>
             </div>
         </div>
-    </div> 
-</div> 
+    </div>
+</div>
 </div>
 
-<div class="modal fade" id="myModalport4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
-    <div class="modal-dialog-front"> 
-        <div class="modal-content"> 
-            <div class="modal-header"> 
-            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
-            <h4 class="modal-title" id="myModalLabel">Fasilitas TK</h4> 
-            </div> 
-                <div class="modal-body-front"> 
-                   LOREM
+<div class="modal fade" id="myModalport4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog-front">
+        <div class="modal-content">
+            <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 class="modal-title" id="myModalLabel">TK : Galeri Kegiatan</h4>
+            </div>
+                <div class="modal-body-front">
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                 </form>
             </div>
         </div>
-    </div> 
-</div> 
+    </div>
+</div>
 </div>
 
-<div class="modal fade" id="myModalport5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
-    <div class="modal-dialog-front"> 
-        <div class="modal-content"> 
-            <div class="modal-header"> 
-            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
-            <h4 class="modal-title" id="myModalLabel">Galeri Kegiatan TK</h4> 
-            </div> 
-                <div class="modal-body-front"> 
-                   LOREM
+<div class="modal fade" id="myModalmeet1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog-front">
+        <div class="modal-content">
+            <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 class="modal-title" id="myModalLabel">SD : Visi - Misi</h4>
+            </div>
+                <div class="modal-body-front">
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                 </form>
             </div>
         </div>
-    </div> 
-</div> 
+    </div>
+</div>
 </div>
 
-<div class="modal fade" id="myModalmeet1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
-    <div class="modal-dialog-front"> 
-        <div class="modal-content"> 
-            <div class="modal-header"> 
-            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
-            <h4 class="modal-title" id="myModalLabel">Beranda TK</h4> 
-            </div> 
-                <div class="modal-body-front"> 
-                   LOREM
+<div class="modal fade" id="myModalmeet2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog-front">
+        <div class="modal-content">
+            <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 class="modal-title" id="myModalLabel">SD : Kurikulum</h4>
+            </div>
+                <div class="modal-body-front">
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                 </form>
             </div>
         </div>
-    </div> 
-</div> 
+    </div>
+</div>
 </div>
 
-<div class="modal fade" id="myModalmeet2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
-    <div class="modal-dialog-front"> 
-        <div class="modal-content"> 
-            <div class="modal-header"> 
-            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
-            <h4 class="modal-title" id="myModalLabel">Visi - Misi TK</h4> 
-            </div> 
-                <div class="modal-body-front"> 
-                   LOREM
+<div class="modal fade" id="myModalmeet3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog-front">
+        <div class="modal-content">
+            <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 class="modal-title" id="myModalLabel">SD : Fasilitas</h4>
+            </div>
+                <div class="modal-body-front">
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                 </form>
             </div>
         </div>
-    </div> 
-</div> 
+    </div>
+</div>
 </div>
 
-<div class="modal fade" id="myModalmeet3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
-    <div class="modal-dialog-front"> 
-        <div class="modal-content"> 
-            <div class="modal-header"> 
-            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
-            <h4 class="modal-title" id="myModalLabel">Kurikulum TK</h4> 
-            </div> 
-                <div class="modal-body-front"> 
-                   LOREM
+<div class="modal fade" id="myModalmeet4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog-front">
+        <div class="modal-content">
+            <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 class="modal-title" id="myModalLabel">SD : Galeri Kegiatan</h4>
+            </div>
+                <div class="modal-body-front">
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                 </form>
             </div>
         </div>
-    </div> 
-</div> 
+    </div>
+</div>
 </div>
 
-<div class="modal fade" id="myModalmeet4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
-    <div class="modal-dialog-front"> 
-        <div class="modal-content"> 
-            <div class="modal-header"> 
-            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
-            <h4 class="modal-title" id="myModalLabel">Fasilitas TK</h4> 
-            </div> 
-                <div class="modal-body-front"> 
-                   LOREM
+
+<div class="modal fade" id="myModalrec1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog-front">
+        <div class="modal-content">
+            <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 class="modal-title" id="myModalLabel">SMP : Visi - Misi</h4>
+            </div>
+                <div class="modal-body-front">
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                 </form>
             </div>
         </div>
-    </div> 
-</div> 
+    </div>
+</div>
 </div>
 
-<div class="modal fade" id="myModalmeet5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
-    <div class="modal-dialog-front"> 
-        <div class="modal-content"> 
-            <div class="modal-header"> 
-            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
-            <h4 class="modal-title" id="myModalLabel">Galeri Kegiatan TK</h4> 
-            </div> 
-                <div class="modal-body-front"> 
-                   LOREM
+<div class="modal fade" id="myModalrec2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog-front">
+        <div class="modal-content">
+            <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 class="modal-title" id="myModalLabel">SMP : Kurikulum</h4>
+            </div>
+                <div class="modal-body-front">
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                 </form>
             </div>
         </div>
-    </div> 
-</div> 
+    </div>
+</div>
 </div>
 
-<div class="modal fade" id="myModalrec1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
-    <div class="modal-dialog-front"> 
-        <div class="modal-content"> 
-            <div class="modal-header"> 
-            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
-            <h4 class="modal-title" id="myModalLabel">Beranda TK</h4> 
-            </div> 
-                <div class="modal-body-front"> 
-                   LOREM
+<div class="modal fade" id="myModalrec3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog-front">
+        <div class="modal-content">
+            <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 class="modal-title" id="myModalLabel">SMP : Fasilitas</h4>
+            </div>
+                <div class="modal-body-front">
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                 </form>
             </div>
         </div>
-    </div> 
-</div> 
+    </div>
+</div>
 </div>
 
-<div class="modal fade" id="myModalrec2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
-    <div class="modal-dialog-front"> 
-        <div class="modal-content"> 
-            <div class="modal-header"> 
-            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
-            <h4 class="modal-title" id="myModalLabel">Visi - Misi TK</h4> 
-            </div> 
-                <div class="modal-body-front"> 
-                   LOREM
+<div class="modal fade" id="myModalrec4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog-front">
+        <div class="modal-content">
+            <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 class="modal-title" id="myModalLabel">SMP : Galeri Kegiatan</h4>
+            </div>
+                <div class="modal-body-front">
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                 </form>
             </div>
         </div>
-    </div> 
-</div> 
+    </div>
+</div>
 </div>
 
-<div class="modal fade" id="myModalrec3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
-    <div class="modal-dialog-front"> 
-        <div class="modal-content"> 
-            <div class="modal-header"> 
-            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
-            <h4 class="modal-title" id="myModalLabel">Kurikulum TK</h4> 
-            </div> 
-                <div class="modal-body-front"> 
-                   LOREM
+<div class="modal fade" id="myModalcont1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog-front">
+        <div class="modal-content">
+            <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 class="modal-title" id="myModalLabel">SMA : Visi - Misi</h4>
+            </div>
+                <div class="modal-body-front">
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                 </form>
             </div>
         </div>
-    </div> 
-</div> 
+    </div>
+</div>
 </div>
 
-<div class="modal fade" id="myModalrec4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
-    <div class="modal-dialog-front"> 
-        <div class="modal-content"> 
-            <div class="modal-header"> 
-            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
-            <h4 class="modal-title" id="myModalLabel">Fasilitas TK</h4> 
-            </div> 
-                <div class="modal-body-front"> 
-                   LOREM
+<div class="modal fade" id="myModalcont2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog-front">
+        <div class="modal-content">
+            <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 class="modal-title" id="myModalLabel">SMA : Kurikulum</h4>
+            </div>
+                <div class="modal-body-front">
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                 </form>
             </div>
         </div>
-    </div> 
-</div> 
+    </div>
+</div>
 </div>
 
-<div class="modal fade" id="myModalrec5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
-    <div class="modal-dialog-front"> 
-        <div class="modal-content"> 
-            <div class="modal-header"> 
-            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
-            <h4 class="modal-title" id="myModalLabel">Galeri Kegiatan TK</h4> 
-            </div> 
-                <div class="modal-body-front"> 
-                   LOREM
+<div class="modal fade" id="myModalcont3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog-front">
+        <div class="modal-content">
+            <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 class="modal-title" id="myModalLabel">SMA : Fasilitas</h4>
+            </div>
+                <div class="modal-body-front">
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                 </form>
             </div>
         </div>
-    </div> 
-</div> 
+    </div>
+</div>
 </div>
 
-<div class="modal fade" id="myModalcont1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
-    <div class="modal-dialog-front"> 
-        <div class="modal-content"> 
-            <div class="modal-header"> 
-            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
-            <h4 class="modal-title" id="myModalLabel">Beranda TK</h4> 
-            </div> 
-                <div class="modal-body-front"> 
-                   LOREM
-                </form>
+<div class="modal fade" id="myModalcont4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog-front">
+        <div class="modal-content">
+            <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 class="modal-title" id="myModalLabel">SMA : Galeri Kegiatan</h4>
             </div>
-        </div>
-    </div> 
-</div> 
-</div>
+                <div class="modal-body-front">
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-<div class="modal fade" id="myModalcont2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
-    <div class="modal-dialog-front"> 
-        <div class="modal-content"> 
-            <div class="modal-header"> 
-            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
-            <h4 class="modal-title" id="myModalLabel">Visi - Misi TK</h4> 
-            </div> 
-                <div class="modal-body-front"> 
-                   LOREM
-                </form>
-            </div>
-        </div>
-    </div> 
-</div> 
-</div>
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-<div class="modal fade" id="myModalcont3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
-    <div class="modal-dialog-front"> 
-        <div class="modal-content"> 
-            <div class="modal-header"> 
-            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
-            <h4 class="modal-title" id="myModalLabel">Kurikulum TK</h4> 
-            </div> 
-                <div class="modal-body-front"> 
-                   LOREM
+                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                 </form>
             </div>
         </div>
-    </div> 
-</div> 
+    </div>
 </div>
-
-<div class="modal fade" id="myModalcont4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
-    <div class="modal-dialog-front"> 
-        <div class="modal-content"> 
-            <div class="modal-header"> 
-            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
-            <h4 class="modal-title" id="myModalLabel">Fasilitas TK</h4> 
-            </div> 
-                <div class="modal-body-front"> 
-                   LOREM
-                </form>
-            </div>
-        </div>
-    </div> 
-</div> 
-</div>
-
-<div class="modal fade" id="myModalcont5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
-    <div class="modal-dialog-front"> 
-        <div class="modal-content"> 
-            <div class="modal-header"> 
-            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> 
-            <h4 class="modal-title" id="myModalLabel">Galeri Kegiatan TK</h4> 
-            </div> 
-                <div class="modal-body-front"> 
-                   LOREM
-                </form>
-            </div>
-        </div>
-    </div> 
-</div> 
 </div>
 
 <!-- Our Portfolio======================================== -->
@@ -475,11 +477,11 @@
     <img class="img-c" src="{{ url('images/TK.gif') }}">
 </div>
 <div class="class-lab">
-    <a class="a-lab-port" data-toggle="modal" data-target="#myModalport1" href="#"><label class="lab-c-port">Beranda</label></a>
-    <a class="a-lab-port" data-toggle="modal" data-target="#myModalport2" href="#"><label class="lab-c-port">Visi - Misi</label></a>
-    <a class="a-lab-port" data-toggle="modal" data-target="#myModalport3" href="#"><label class="lab-c-port">Kurikulum</label></a>
-    <a class="a-lab-port" data-toggle="modal" data-target="#myModalport4" href="#"><label class="lab-c-port">Fasilitas</label></a>
-    <a class="a-lab-port" data-toggle="modal" data-target="#myModalport5" href="#"><label class="lab-c-port">Galeri Kegiatan</label></a>
+    <a class="a-lab-port" href="#"><label class="lab-c-port">Beranda</label></a>
+    <a class="a-lab-port" data-toggle="modal" data-target="#myModalport1" href="#"><label class="lab-c-port">Visi - Misi</label></a>
+    <a class="a-lab-port" data-toggle="modal" data-target="#myModalport2" href="#"><label class="lab-c-port">Kurikulum</label></a>
+    <a class="a-lab-port" data-toggle="modal" data-target="#myModalport3" href="#"><label class="lab-c-port">Fasilitas</label></a>
+    <a class="a-lab-port" data-toggle="modal" data-target="#myModalport4" href="#"><label class="lab-c-port">Galeri Kegiatan</label></a>
     <a class="a-lab-port" href="#"><label class="lab-c-port">Pendaftaran</label></a>
 </div>
 </div>
@@ -492,11 +494,11 @@
     <img class="img-c" src="{{ url('images/SD.png') }}">
 </div>
 <div class="class-lab">
-    <a class="a-lab-meet" data-toggle="modal" data-target="#myModalmeet1" href="#"><label class="lab-c-meet">Beranda</label></a>
-    <a class="a-lab-meet" data-toggle="modal" data-target="#myModalmeet2" href="#"><label class="lab-c-meet">Visi - Misi</label></a>
-    <a class="a-lab-meet" data-toggle="modal" data-target="#myModalmeet3" href="#"><label class="lab-c-meet">Kurikulum</label></a>
-    <a class="a-lab-meet" data-toggle="modal" data-target="#myModalmeet4" href="#"><label class="lab-c-meet">Fasilitas</label></a>
-    <a class="a-lab-meet" data-toggle="modal" data-target="#myModalmeet5" href="#"><label class="lab-c-meet">Galeri Kegiatan</label></a>
+    <a class="a-lab-meet" href="#"><label class="lab-c-meet">Beranda</label></a>
+    <a class="a-lab-meet" data-toggle="modal" data-target="#myModalmeet1" href="#"><label class="lab-c-meet">Visi - Misi</label></a>
+    <a class="a-lab-meet" data-toggle="modal" data-target="#myModalmeet2" href="#"><label class="lab-c-meet">Kurikulum</label></a>
+    <a class="a-lab-meet" data-toggle="modal" data-target="#myModalmeet3" href="#"><label class="lab-c-meet">Fasilitas</label></a>
+    <a class="a-lab-meet" data-toggle="modal" data-target="#myModalmeet4" href="#"><label class="lab-c-meet">Galeri Kegiatan</label></a>
     <a class="a-lab-meet" href="#"><label class="lab-c-meet">Pendaftaran</label></a>
 </div>
 </div>
@@ -510,11 +512,11 @@
     <img class="img-c" src="{{ url('images/SMP.png') }}">
 </div>
 <div class="class-lab">
-    <a class="a-lab-rec" data-toggle="modal" data-target="#myModalrec1" href="#"><label class="lab-c-rec">Beranda</label></a>
-    <a class="a-lab-rec" data-toggle="modal" data-target="#myModalrec2" href="#"><label class="lab-c-rec">Visi - Misi</label></a>
-    <a class="a-lab-rec" data-toggle="modal" data-target="#myModalrec3" href="#"><label class="lab-c-rec">Kurikulum</label></a>
-    <a class="a-lab-rec" data-toggle="modal" data-target="#myModalrec4" href="#"><label class="lab-c-rec">Fasilitas</label></a>
-    <a class="a-lab-rec" data-toggle="modal" data-target="#myModalrec5" href="#"><label class="lab-c-rec">Galeri Kegiatan</label></a>
+    <a class="a-lab-rec" href="#"><label class="lab-c-rec">Beranda</label></a>
+    <a class="a-lab-rec" data-toggle="modal" data-target="#myModalrec1" href="#"><label class="lab-c-rec">Visi - Misi</label></a>
+    <a class="a-lab-rec" data-toggle="modal" data-target="#myModalrec2" href="#"><label class="lab-c-rec">Kurikulum</label></a>
+    <a class="a-lab-rec" data-toggle="modal" data-target="#myModalrec3" href="#"><label class="lab-c-rec">Fasilitas</label></a>
+    <a class="a-lab-rec" data-toggle="modal" data-target="#myModalrec4" href="#"><label class="lab-c-rec">Galeri Kegiatan</label></a>
     <a class="a-lab-rec" href="#"><label class="lab-c-rec">Pendaftaran</label></a>
 </div>
 </div>
@@ -527,44 +529,42 @@
     <img class="img-c" src="{{ url('images/SMA.png') }}">
 </div>
 <div class="class-lab">
-    <a class="a-lab-cont" data-toggle="modal" data-target="#myModalcont1" href="#"><label class="lab-c-cont">Beranda</label></a>
-    <a class="a-lab-cont" data-toggle="modal" data-target="#myModalcont2" href="#"><label class="lab-c-cont">Visi - Misi</label></a>
-    <a class="a-lab-cont" data-toggle="modal" data-target="#myModalcont3" href="#"><label class="lab-c-cont">Kurikulum</label></a>
-    <a class="a-lab-cont" data-toggle="modal" data-target="#myModalcont4" href="#"><label class="lab-c-cont">Fasilitas</label></a>
-    <a class="a-lab-cont" data-toggle="modal" data-target="#myModalcont5" href="#"><label class="lab-c-cont">Galeri Kegiatan</label></a>
+    <a class="a-lab-cont" href="#"><label class="lab-c-cont">Beranda</label></a>
+    <a class="a-lab-cont" data-toggle="modal" data-target="#myModalcont1" href="#"><label class="lab-c-cont">Visi - Misi</label></a>
+    <a class="a-lab-cont" data-toggle="modal" data-target="#myModalcont2" href="#"><label class="lab-c-cont">Kurikulum</label></a>
+    <a class="a-lab-cont" data-toggle="modal" data-target="#myModalcont3" href="#"><label class="lab-c-cont">Fasilitas</label></a>
+    <a class="a-lab-cont" data-toggle="modal" data-target="#myModalcont4" href="#"><label class="lab-c-cont">Galeri Kegiatan</label></a>
     <a class="a-lab-cont" href="#"><label class="lab-c-cont">Pendaftaran</label></a>
 </div>
 </div>
 
 
-        
+
      <div class="footerSection container">
-    
-       
-                
-                
-        
-    
+
+
+
+
+
+
        <!--  <div class="copyright"><p>  Copyright 2014 | Developed By <a href="http://www.tb3.co.in">tB3</a> edited by rzd</p></div>
-        To remove this copyright notice, please donate via Xtendify at - https://www.xtendify.com/en/product/103-colorful-flat-bootstrap-theme. It will support the development process 
-        
+        To remove this copyright notice, please donate via Xtendify at - https://www.xtendify.com/en/product/103-colorful-flat-bootstrap-theme. It will support the development process
+
     </div> -->
 
-        
-        
-        
-</div> 
+
+
+
+</div>
 <div class="footer-wel">
     <div class="footer-content">
         <div class="footer-lable">
-            <label><a class="footer-a1" href="#">Github</a></label>
+            <label><a class="footer-a1" href="#">Facebook</a></label>
             <label><a class="footer-a1" href="#">Twitter</a></label>
-            <label><a class="footer-a1" href="#">Contact</a></label>
+            <label><a class="footer-a1" href="#">Meet The Team</a></label>
         </div>
         <div class="footer-lable2">
-            <label>Designed and built with all the love in the world by <a class="footer-a" href="#">@mdo</a> and <a <a class="footer-a" href="">@fat</a>. Maintained by the <a class="footer-a" href="">core team</a> with the help of <a class="footer-a" href="">our contributors</a>.</label>
-            <br>
-            <label>Code licensed <a class="footer-a" href="">MIT</a>, docs <a class="footer-a" href=""> CC BY 3.0. </a></label>
+            <label style="color : rgb(20, 210, 210)">© 2016 JICOS, All rights reserved. <a class="footer-a" href="#"> Achmad Fauzi </a> and <a <a class="footer-a" href=""> Rizda Annisa .</a> Perguruan Islam Al - Fajar <a class="footer-a" href=""> Contact , </a> and JICOS <a class="footer-a" href=""> About. </a>.</label>
         </div>
     </div>
 </div>
@@ -585,15 +585,12 @@
 
     $(document).ready(function() {
     $('#myCarousel').carousel({
-      interval: 7000
+      interval: 3000
     });
-    
+
     });
-    
-    
-    
-    
- 
+
+
 </script>
 
 </body>
